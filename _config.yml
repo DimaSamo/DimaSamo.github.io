@@ -1,11 +1,11 @@
 # Site settings
-author: Dmitri Samotessov
-title: 
+author: Dmitri Samoterssov
+title: Flatiron Journey
 header-img: img/home-bg.png
 email: dimasamo96@gmail.com
-copyright_name: Dmitri Samotessov
+copyright_name: Dmitri Samoterssov
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey of going through the Flatiron coding bootcamp.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  DimaSamo
